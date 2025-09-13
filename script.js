@@ -73,34 +73,10 @@ const MODEL = {
       "default": 18.0,
       "row": 11
     {
-      "address": "C13",
-      "label": "Calculation Results",
-      "default": 0.0,
-      "row": 13
-    },
-    {
       "address": "C15",
       "label": "Design Density 10.2 lpm/m2 as per IS:15325 Clause No 8.7.2",
       "default": 10.2,
       "row": 15
-    },
-    {
-      "address": "C21",
-      "label": "Calculation for K-Factor Selection & Nozzle Flow",
-      "default": 0.0,
-      "row": 21
-    },
-    {
-      "address": "C24",
-      "label": "MVWS Nozzle Selected - Spray Angle",
-      "default": 0.0,
-      "row": 24
-    },
-    {
-      "address": "C28",
-      "label": " Bill of Materials (BOM)",
-      "default": 0.0,
-      "row": 28
     }
   ],
   "formulas": [
